@@ -1,4 +1,4 @@
-Quark Summer Technical Projects (QSTP) 2020 in association with GDG (Google Developers Group) & WTM (Women Techmakers) New Delhi is now open for participation from all students irrespective of their branch and year of study. 
+Quark Summer Technical Projects (QSTP) in association with GDG (Google Developers Group) & WTM (Women Techmakers) New Delhi is open for participation from all students irrespective of their branch and year of study. 
 
 What is QSTP?
 
