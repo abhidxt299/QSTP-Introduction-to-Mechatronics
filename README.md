@@ -1,6 +1,6 @@
 # QSTP Introduction To Mechatronics
 
-This repository contains all reading materials from the mechatronics summer course taught by Abhishek Dixit and Tanmay Bhonsale, as part of the QSTP initiative. The aim of this material is to give a gentle beginner's introduction to electronics, Arduino, CAD modelling, MATLAB and robot kinematics. No hardware is required for the completion of the course, even the Arduino part is done on TinkerCAD, a free online circuit simulator.
+This repository contains all reading materials from the mechatronics summer course taught by [Abhishek Dixit](https://github.com/abhidxt299) and [Tanmay Bhonsale](https://github.com/enceladus2000), as part of the QSTP initiative. The aim of this material is to give a gentle beginner's introduction to electronics, Arduino, CAD modelling, MATLAB and robot kinematics. No hardware is required for the completion of the course, even the Arduino part is done on TinkerCAD, a free online circuit simulator.
 
 *PS: If you are a beginner interested in learning electronics and Arduino program, Module 1 of this course is a great place to get started.*
 
