@@ -1,0 +1,10 @@
+Our focus will now be on implementing kinematics into a simulations of robotic arms. We shall use MATLAB, along with a Peter Corke's Robotics systems toolbox for this. The following links are each a series of excellent lessons by Corke himself that will guide you do so; one can easily go through them in 2-3 days. Refer to the attachment for toolbox installation instructions.
+
+1. https://robotacademy.net.au/masterclass/robotic-arms-and-forward-kinematics/
+2. https://robotacademy.net.au/masterclass/inverse-kinematics-and-robot-motion/
+3. https://robotacademy.net.au/masterclass/velocity-kinematics-in-2d/
+4. https://robotacademy.net.au/masterclass/velocity-kinematics-in-3d/
+
+Note: Corke's Robotics systems toolbox can be found here - https://petercorke.com/toolboxes/robotics-toolbox
+
+This is a different one from MATLAB's own toolbox of the same name (seen here - https://www.mathworks.com/products/robotics.html)
